@@ -1,0 +1,5 @@
+<?php
+//hneter init.php
+
+
+
